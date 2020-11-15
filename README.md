@@ -1,3 +1,4 @@
+# Physical Acitivity Recognition Using Single Chest Mounted Accelerometer
 
 Physical activity recognition is a comprehensive study that intends to identify a person's actions based on sensor data. In this project, activity recognition is expressed as a classification task where two traditional machine learning algorithms are analysed based on their precision and accuracy. Extra features are also created to examine the impact on the model’s performance. As a result, K Nearest Neighbour is found to perform consistently well in identifying distinct activities. 
 
