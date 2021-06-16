@@ -1,5 +1,7 @@
 # Acitivity Recognition Using Single Chest Mounted Accelerometer
 
+## Author: Nischay Thapa
+
 Physical activity recognition is a comprehensive study that intends to identify a person's actions based on sensor data. In this project, activity recognition is expressed as a multi class classification problem where the task is to predict seven different activities. We evaluated model's performance based on macro average f1-score and found that 5 neighbour classifers performs well in identifying those activities.
 
 
